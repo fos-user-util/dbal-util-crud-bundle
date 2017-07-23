@@ -1,0 +1,33 @@
+{
+    "name": "fos-user-util/dbal-util-crud-bundle",
+    "type": "symfony-bundle",
+    "description": "Generated CRUD for friendsofsymfony/user-bundle using DBAL Util",
+    "keywords": ["user-management", "friendsofsymfony-user", "fos-user", "persistence", "dbal-util"],
+    "homepage": "https://github.com/fos-user-util/dbal-util-crud-bundle",
+    "license": "MIT",
+    "authors": [
+        {"name": "Jean-bernard Addor"},
+        {"name": "Community", "homepage": "https://github.com/fos-user-util/dbal-util-crud-bundle"}
+    ],
+    "require": {
+        "php": "^5.0",
+        "doctrine/doctrine-bundle": "~1.6",
+        "dbal-util/connection": "~0.1",
+        "symfony/framework-bundle": "~2.7|~3.0|~4.0",
+        "symfony/http-kernel": "~2.7|~3.0|~4.0"
+    },
+    "require-dev": {
+        "escapestudios/symfony2-coding-standard": "^2.11"
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": { "FosUserUtil\\DbalUtilCrudBundle\\": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
+
