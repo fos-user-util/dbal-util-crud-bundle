@@ -1,6 +1,6 @@
 <?php
 
-namespace FosUserUtil\OrmCrudBundle\Controller;
+namespace FosUserUtil\DbalUtilCrudBundle\Controller;
 
 use AppBundle\Entity\User;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
