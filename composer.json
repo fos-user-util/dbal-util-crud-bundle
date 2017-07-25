@@ -14,7 +14,8 @@
         "doctrine/doctrine-bundle": "^1.6",
         "dbal-util/connection": "^0.1",
         "symfony/framework-bundle": "^2.7 || ^3.0 || ^4.0",
-        "symfony/http-kernel": "^2.7 || ^3.0 || ^4.0"
+        "symfony/http-kernel": "^2.7 || ^3.0 || ^4.0",
+        "symfony/twig-bundle": "^2.7 || ^3.0 || ^4.0"
     },
     "require-dev": {
         "escapestudios/symfony2-coding-standard": "^2.11"
