@@ -2,7 +2,7 @@
     "name": "fos-user-util/dbal-util-crud-bundle",
     "type": "symfony-bundle",
     "description": "Generated CRUD for friendsofsymfony/user-bundle using DBAL Util",
-    "keywords": ["user-management", "friendsofsymfony-user", "fos-user", "persistence", "dbal-util"],
+    "keywords": ["user-management", "friendsofsymfony-user", "fos-user", "persistence", "dbal-util" ,"snowyowl"],
     "homepage": "https://github.com/fos-user-util/dbal-util-crud-bundle",
     "license": "MIT",
     "authors": [
