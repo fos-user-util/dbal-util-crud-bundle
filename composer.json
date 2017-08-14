@@ -1,18 +1,18 @@
 {
-    "name": "fos-user-util/dbal-util-crud-bundle",
+    "name": "fos-user-util/doctrine-dbal-util-crud-bundle",
     "type": "symfony-bundle",
     "description": "Generated CRUD for friendsofsymfony/user-bundle using DBAL Util",
     "keywords": ["user-management", "friendsofsymfony-user", "fos-user", "persistence", "dbal-util" ,"snowyowl"],
-    "homepage": "https://github.com/fos-user-util/dbal-util-crud-bundle",
+    "homepage": "https://github.com/fos-user-util/doctrine-dbal-util-crud-bundle",
     "license": "MIT",
     "authors": [
         {"name": "Jean-bernard Addor"},
-        {"name": "Community", "homepage": "https://github.com/fos-user-util/dbal-util-crud-bundle"}
+        {"name": "Community", "homepage": "https://github.com/fos-user-util/doctrine-dbal-util-crud-bundle"}
     ],
     "require": {
         "php": "^5.0",
         "doctrine/doctrine-bundle": "^1.6",
-        "dbal-util/connection": "^0.1",
+        "doctrine-dbal-util/connection": "^0.1",
         "symfony/framework-bundle": "^2.7 || ^3.0 || ^4.0",
         "symfony/http-kernel": "^2.7 || ^3.0 || ^4.0",
         "symfony/twig-bundle": "^2.7 || ^3.0 || ^4.0"
@@ -23,7 +23,7 @@
     "suggest": {
     },
     "autoload": {
-        "psr-4": { "FosUserUtil\\DbalUtilCrudBundle\\": "" }
+        "psr-4": { "FosUserUtil\\DoctrineDbalUtilCrudBundle\\": "" }
     },
     "extra": {
         "branch-alias": {
