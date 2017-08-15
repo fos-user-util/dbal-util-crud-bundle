@@ -1,6 +1,6 @@
 <?php
 
-namespace FosUserUtil\DbalUtilCrudBundle;
+namespace FosUserUtil\DoctrineDbalUtilCrudBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
