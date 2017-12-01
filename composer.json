@@ -10,7 +10,7 @@
         {"name": "Community", "homepage": "https://github.com/fos-user-util/doctrine-dbal-util-crud-bundle"}
     ],
     "require": {
-        "php": "^5.0",
+        "php": "^5.0 || ^7.0",
         "doctrine/doctrine-bundle": "^1.6",
         "doctrine-dbal-util/connection": "^0.1",
         "symfony/framework-bundle": "^2.7 || ^3.0 || ^4.0",
